@@ -1,8 +1,6 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
-  <div>'https://jwyterlin.github.io'</div>
-  <div>'https://jwyterlin.github.io{{ page.url }}'</div>
-  <div>'{{ page.url | absolute_url }}'</div>
+  <div>'{{ page.url | https://jwyterlin.github.io }}'</div>
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
