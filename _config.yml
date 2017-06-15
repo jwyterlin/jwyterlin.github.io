@@ -17,7 +17,7 @@ title: Jhonathan Wyterlin
 email: jhonathanwyterlin@gmail.com
 description: "Blog about software development, iOS, WatchOS, NodeJS and anything else. All opinions here are my own."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jwyterlin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jwyterlin
 github_username:  jwyterlin
 
